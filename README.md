@@ -39,6 +39,7 @@ A list of topics we would like to cover is included below. Linked below each top
   * Features and training examples
   * Gradient descent
   * Training vs. testing sets
+  * [Why do we use gradient descent? (HIGHLY mathematical explanation, but a good starting point if you're interested in learning more theory / background](https://scienceofdata.org/2019/11/24/why-gradient-descent/)
 * Logistic regression
   * Recap: classification vs. regression
   * How to transform linear regression into logistic regression using the sigmoid activation function
