@@ -46,7 +46,7 @@ A list of topics we would like to cover is included below. Linked below each top
   * Normal distribution + anomaly detection
 * Shallow neural networks
 * Deep fully-connected neural networks
- * [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+  * [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
 * Convolutional neural networks
   * YOLO (object detection in images)
   * Landmark detection (identifying facial features)
