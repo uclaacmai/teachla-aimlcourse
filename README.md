@@ -14,13 +14,26 @@ A list of topics we would like to cover is included below. Linked below each top
 
 * What is AI?
   * Overview of artificial intelligence, its history, applications, and prevalence in society
+  * [Our Fall 2019 presentation from this session](https://docs.google.com/presentation/d/1yzc0K7pztHydPVXGULlYszm-J_OnqRxkjr5PlQ4RHDc/edit?usp=sharing)
+  * [Intro to artificial intelligence](https://www.geeksforgeeks.org/artificial-intelligence-an-introduction/)
+  * [MIT Technology Review's Artifical Intelligence Section](https://www.technologyreview.com/artificial-intelligence/)
+  * [MIT news on AI](http://news.mit.edu/topic/artificial-intelligence2)
+  * [NY Times news on AI](https://www.nytimes.com/topic/subject/artificial-intelligence)
 * What is ML?
   * How is machine learning used to create artificially intelligent systems?
   * Overview of key techniques: linear and logistic regression, neural networks, CNN algorithms, etc.
+  * [Our Fall 2019 presentation from this session](https://docs.google.com/presentation/d/1eDwEFXscmPcLhBuYd9ar0gSkjtiyFay55q4IpwgbA5w/edit?usp=sharing)
+  * [Intro to machine learning](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
+  * [Good intro to various types of machine learning](https://www.geeksforgeeks.org/getting-started-machine-learning/)
 * Python + loading datasets + plotting (with matplotlib)
   * Will cover basics of Python programming
   * Will discuss how data are stored and can be loaded
   * Will explore different ways of visualizing datasets
+  * [Our Fall 2019 presentation from this session](https://drive.google.com/file/d/1b-NUdhieq6yPRvsEWn_MxaLUZ8sIw0vk/view?usp=sharing)
+  * [Learn Python online in an interactive environment](https://www.codecademy.com/learn/learn-python)
+  * [Really quick and dirty intro to Python (better as a refresher as opposed to first introduction)](https://www.stavros.io/tutorials/python/)
+  * [Scikit-learn tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+  * [Intro to scikit-learn ft pandas](https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/)
 * Linear regression
   * Matrices and vectors
   * Features and training examples
@@ -33,6 +46,7 @@ A list of topics we would like to cover is included below. Linked below each top
   * Normal distribution + anomaly detection
 * Shallow neural networks
 * Deep fully-connected neural networks
+ * [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
 * Convolutional neural networks
   * YOLO (object detection in images)
   * Landmark detection (identifying facial features)
