@@ -2,7 +2,6 @@
 By the UCLA Association for Computing Machinery (ACM) AI
 
 ## Summary
-Intro to AI/ML
 This is a two-quarter course taught by UCLA students to introduce high-school students to artificial intelligence and its many applications. The number of weeks required to complete the course and start date are flexible.
 
 ## Description
